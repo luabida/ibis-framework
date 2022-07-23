@@ -1,0 +1,9 @@
+name: ibis-notebook
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - ipython
+  - jupyter
+  - ibis-framework
+  - sqlite
